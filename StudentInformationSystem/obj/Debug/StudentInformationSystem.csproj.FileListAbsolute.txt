@@ -1,0 +1,10 @@
+C:\Users\damla\Desktop\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\damla\Desktop\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe
+C:\Users\damla\Desktop\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.pdb
+C:\Users\damla\Desktop\Projects\StudentInformationSystem\StudentInformationSystem\bin\Debug\RandomGenerator.dll
+C:\Users\damla\Desktop\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.csprojResolveAssemblyReference.cache
+C:\Users\damla\Desktop\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\damla\Desktop\Projects\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
+C:\Users\damla\Desktop\Projects_C#\StudentInformationSystem\StudentInformationSystem\bin\Debug\StudentInformationSystem.exe.config
+C:\Users\damla\Desktop\Projects_C#\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.exe
+C:\Users\damla\Desktop\Projects_C#\StudentInformationSystem\StudentInformationSystem\obj\Debug\StudentInformationSystem.pdb
